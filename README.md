@@ -29,6 +29,8 @@ Hands-on labs with **synthetic** data only:
 | [network-security-labs](https://github.com/Gitsimbanyi2/network-security-labs) | Lab diagrams, firewall/VLAN/VPN hardening notes, troubleshooting |
 | [vulnerability-assessment-labs](https://github.com/Gitsimbanyi2/vulnerability-assessment-labs) | Authorised-lab findings, remediation, parser script |
 | [cybersecurity-python-tools](https://github.com/Gitsimbanyi2/cybersecurity-python-tools) | Log analysis, IOC extraction, security report generator |
+| [secure-coding-labs](https://github.com/Gitsimbanyi2/secure-coding-labs) | OWASP-aligned secure coding: parameterized queries, XSS encoding, password hashing, SAST |
+| [reverse-engineering-labs](https://github.com/Gitsimbanyi2/reverse-engineering-labs) | Binary formats, Ghidra/GDB labs, YARA, benign sample only |
 
 ## Programme & advisory portfolios
 
